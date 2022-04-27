@@ -1,0 +1,187 @@
+\subsection{One Third Void Insertion}
+
+
+\begin{table}[H]
+	\centering
+	\begin{tabu}{|c|c|c|}
+		\hline
+		Trial
+		& Initial Safety Height \(\left[ \frac{\text{}}{\text{}} \right]\)
+		& Initial Rod Worth \(\left[ \frac{\text{}}{\text{}} \right]\)
+		\\
+		\hline
+		1 & 17.65 & 265.6 \\
+		\hline
+		2 & 17.67 & 263.7 \\
+		\hline
+		3 & 17.65 & 265.6 \\
+		\hline
+		4 & 17.66 & 264.6 \\
+		\hline
+		5 & 17.64 & 266.5 \\
+		\hline
+		6 & 17.66 & 264.6 \\
+		\hline
+	\end{tabu}
+	\caption{Reactivity  Void Coefficient for \( \frac{1}{3} \) insertion}
+\end{table}
+
+
+\begin{table}[H]
+	\centering
+	\begin{tabu}{|c|c|c|}
+		\hline
+		Trial
+		& Safety Final Height \(\left[ \frac{\text{}}{\text{}} \right]\)
+		& Safety Final Worth \(\left[ \frac{\text{}}{\text{}} \right]\)
+		\\
+		\hline
+		1 & 17.67 & 263.7 \\
+		\hline
+		2 & 17.69 & 261.8 \\
+		\hline
+		3 & 17.74 & 257.1 \\
+		\hline
+		4 & 17.69 & 261.8 \\
+		\hline
+		5 & 17.66 & 264.6 \\
+		\hline
+		6 & 17.69 & 261.8 \\
+		\hline
+	\end{tabu}
+	\caption{Reactivity  Void Coefficient for \( \frac{1}{3} \) insertion}
+\end{table}
+
+
+\begin{table}[H]
+	\centering
+	\begin{tabu}{|c|c|c|}
+		\hline
+		Trial
+		& \( \Delta \rho \) \(\left[ \frac{\text{}}{\text{}} \right]\)
+		& \( \alpha_V \) \(\left[ \frac{\text{}}{\text{}} \right]\)
+		\\
+		\hline
+		1 & 1.884 & -0.1873 \\
+		\hline
+		2 & 1.878 & -0.1868 \\
+		\hline
+		3 & 8.43 & -0.8384 \\
+		\hline
+		4 & 2.819 & -0.2804 \\
+		\hline
+		5 & 1.887 & -0.1876 \\
+		\hline
+		6 & 2.819 & -0.2804 \\
+		\hline
+	\end{tabu}
+	\caption{Reactivity  Void Coefficient for \( \frac{1}{3} \) insertion}
+\end{table}
+
+
+\subsection{Full Void Insertion}
+
+
+\begin{table}[H]
+	\centering
+	\begin{tabu}{|c|c|c|}
+		\hline
+		Trial
+		& Initial Safety Height \(\left[ \frac{\text{}}{\text{}} \right]\)
+		& Initial Rod Worth \(\left[ \frac{\text{}}{\text{}} \right]\)
+		\\
+		\hline
+		1 & 17.65 & 265.6 \\
+		\hline
+		2 & 17.67 & 263.7 \\
+		\hline
+		3 & 17.65 & 265.6 \\
+		\hline
+		4 & 17.66 & 264.6 \\
+		\hline
+		5 & 17.64 & 266.5 \\
+		\hline
+		6 & 17.66 & 264.6 \\
+		\hline
+	\end{tabu}
+	\caption{Reactivity  Void Coefficient for full insertion}
+\end{table}
+
+
+\begin{table}[H]
+	\centering
+	\begin{tabu}{|c|c|c|}
+		\hline
+		Trial
+		& Safety Final Height \(\left[ \frac{\text{}}{\text{}} \right]\)
+		& Safety Final Worth \(\left[ \frac{\text{}}{\text{}} \right]\)
+		\\
+		\hline
+		1 & 17.67 & 263.7 \\
+		\hline
+		2 & 17.69 & 261.8 \\
+		\hline
+		3 & 17.74 & 257.1 \\
+		\hline
+		4 & 17.69 & 261.8 \\
+		\hline
+		5 & 17.66 & 264.6 \\
+		\hline
+		6 & 17.69 & 261.8 \\
+		\hline
+	\end{tabu}
+	\caption{Reactivity  Void Coefficient for full insertion}
+\end{table}
+
+
+\begin{table}[H]
+	\centering
+	\begin{tabu}{|c|c|c|}
+		\hline
+		Trial
+		& \( \Delta \rho \) \(\left[ \frac{\text{}}{\text{}} \right]\)
+		& \( \alpha_V \) \(\left[ \frac{\text{}}{\text{}} \right]\)
+		\\
+		\hline
+		1 & 1.884 & -0.1873 \\
+		\hline
+		2 & 1.878 & -0.1868 \\
+		\hline
+		3 & 8.43 & -0.8384 \\
+		\hline
+		4 & 2.819 & -0.2804 \\
+		\hline
+		5 & 1.887 & -0.1876 \\
+		\hline
+		6 & 2.819 & -0.2804 \\
+		\hline
+	\end{tabu}
+	\caption{Reactivity  Void Coefficient for full insertion}
+\end{table}
+
+
+\begin{table}[H]
+	\centering
+	\begin{tabu}{|c|c|}
+		\hline
+		Trial
+		& \( \Bar{\rho} \)  \(\left[ \frac{\text{}}{\text{}} \right]\)
+		\\
+		\hline
+		1 & -0.2952 \\
+		\hline
+		2 & -0.3408 \\
+		\hline
+		3 & -1.157 \\
+		\hline
+		4 & -0.509 \\
+		\hline
+		5 & -0.1718 \\
+		\hline
+		6 & -0.3567 \\
+		\hline
+	\end{tabu}
+	\caption{Average Reactivity void coefficient in each fuel box}
+\end{table}
+
+
